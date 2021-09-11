@@ -2,7 +2,7 @@
   "name": "Typescriptex",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "modules.jsg",
   "scripts": {
     "tsc": "tsc",
     "start": "node dist/server.js",

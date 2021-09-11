@@ -1,5 +1,5 @@
-"use strict";
-const object = require('./module.js')
+
+const object = require('./modules.js')
 const getNumber = object.getNumber
 
 console.log('server.js')
