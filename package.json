@@ -1,14 +1,13 @@
 {
-  "name": "Typescriptex",
+  "name": "typescriptex",
   "version": "1.0.0",
   "description": "",
-  "main": "modules.jsg",
+  "main": "modules.js",
   "scripts": {
     "tsc": "tsc",
-    "start": "node dist/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node dist/server.js"
   },
-  "keywords": [],
+  "keywords": [ "node", "typescript"],
   "author": "",
   "license": "ISC",
   "devDependencies": {

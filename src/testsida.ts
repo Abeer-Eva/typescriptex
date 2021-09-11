@@ -1,4 +1,5 @@
-import { randomNumber, increase, getList } from  './module'
+import { randomNumber, increase, getList } from  '../modules'
+
 
 console.log('Welcome to typescript demo')
 
